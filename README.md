@@ -2,7 +2,7 @@
 This project implements a human motion detection, face data verification, and security alert system using machine vision and IoT technologies. It leverages the ESP32-CAM for real-time monitoring and integrates YOLOv5 for object detection and OpenCV for face recognition, creating a secure and efficient surveillance solution.
 
 ## **Project Overview**
-With the rise in security concerns, the need for smart surveillance solutions has grown. This system was designed to detect human motion, identify faces from a pre-registered database, and issue alerts to designated users. Key features include real-time streaming, face authentication, motion tracking, and a user-friendly interface for system control. Link System demo: https://drive.google.com/drive/folders/1Xu5WDIanh8UqaNph10PIVM5tNPEqGjRM?usp=sharing
+With the rise in security concerns, the need for smart surveillance solutions has grown. This system was designed to detect human motion, identify faces from a pre-registered database, and issue alerts to designated users. Key features include real-time streaming, face authentication, motion tracking, and a user-friendly interface for system control. Link [System demo](https://drive.google.com/drive/folders/1Xu5WDIanh8UqaNph10PIVM5tNPEqGjRM?usp=sharing)
 
 ## **Features**
 - Real-time Human Motion Detection: Utilizes YOLOv5 to detect human presence and capture motion in various environments.
