@@ -1,4 +1,4 @@
-* Human Motion Detection and Security Alert System
+** Human Motion Detection and Security Alert System **
 This project implements a human motion detection, face data verification, and security alert system using machine vision and IoT technologies. It leverages the ESP32-CAM for real-time monitoring and integrates YOLOv5 for object detection and OpenCV for face recognition, creating a secure and efficient surveillance solution.
 
 * Project Overview
